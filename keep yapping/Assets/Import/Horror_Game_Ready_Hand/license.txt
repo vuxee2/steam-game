@@ -1,0 +1,8 @@
+Model Information:
+* title:	Horror Game Ready Hand
+* source:	https://sketchfab.com/3d-models/horror-game-ready-hand-806a243798a9487b99a32a250b63ecc1
+* author:	TerComics (https://sketchfab.com/TerComics)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
